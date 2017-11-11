@@ -10,11 +10,11 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/TH3CZAR/MATREXapi
+git clone https://github.com/TH3CZAR/MATREX
 
 • انتر وراه حط •
 
-cd MATREXapi
+cd MATREX
 
 • وانتر وراه حط •
 
@@ -28,7 +28,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/TH3CZAR/MATREXapi && cd MATREXapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/TH3CZAR/MATREX && cd MATREX && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
